@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple file server that display information to logged in user.
+A simple file server that displays information to logged in user.
 
 ## Features
 
